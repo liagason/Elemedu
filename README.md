@@ -1,2 +1,2 @@
 # elemedu
-An edutational material sharing platform for teachers
+An edutational material sharing platform for teachers.
